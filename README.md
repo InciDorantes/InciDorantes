@@ -26,7 +26,7 @@ Python · SQL · JavaScript · R
 Django · Django REST Framework · HTML · CSS · Git · Docker
 
 **Datos & Automatización**  
-ETL · NLP · Machine Learning · Power BI · Streamlit
+ETL · NLP · Power BI · Streamlit
 
 **IA & APIs**  
 OpenAI · Gemini · Mistral AI · Whisper · Ollama · YouTube API
