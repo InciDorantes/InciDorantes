@@ -33,15 +33,6 @@ OpenAI · Gemini · Mistral AI · Whisper · Ollama · YouTube API
 
 ---
 
-### 💼 Experiencia destacada
-
-- Diseñé sistemas automatizados para análisis de información oficial y reducción de tiempos de procesamiento.
-- Desarrollé un CRM full-stack con automatización de IA para optimizar procesos internos.
-- Implementé pipelines de OCR y NLP para extraer y estructurar información desde documentos PDF escaneados.
-- Automatizé reportes, tableros de control e ինտegración de datos para apoyar decisiones estratégicas.
-
----
-
 ### 🎯 Lo que busco aportar
 
 - Desarrollo backend sólido y escalable
